@@ -1,0 +1,34 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.btn-instagram{color:#fff;background-color:#ff00f2;border-color:#ff00f2}
+.btn-instagram:hover{color:#fff;background-color:#d900d9;border-color:#cc00c2}
+.btn-instagram.focus,
+.btn-instagram:focus{color:#fff;background-color:#d900d9;border-color:#cc00c2;box-shadow:0 0 0 .2rem rgba(255, 38, 226, 0.5)}
+.btn-instagram.disabled,
+.btn-instagram:disabled{color:#fff;background-color:#ff00f2;border-color:#ff00f2}
+.btn-instagram:not(:disabled):not(.disabled).active,.btn-instagram:not(:disabled):not(.disabled):active,.show>
+.btn-instagram.dropdown-toggle{color:#fff;background-color:#cc00c2;border-color:#bf008f}
+.btn-instagram:not(:disabled):not(.disabled).active:focus,
+.btn-instagram:not(:disabled):not(.disabled):active:focus,.show>
+.btn-instagram.dropdown-toggle:focus{box-shadow:0 0 0 .2rem rgba(255, 38, 226, 0.5)}
